@@ -8,17 +8,15 @@ I am a full-stack Web3 developer and smart contract auditor specializing in EVM 
 
 **🚀 Technical Skills**<br>
 Smart Contracts & Security: Solidity, EVM Architecture, Gas Optimization, Protocol Auditing<br>
-Tooling & Environment: Foundry (Forge, Cast, Anvil), OpenZeppelin, Chainlink Standards, `svm-rs`<br>
-Version Control & OS: Git, GitHub CLI, Linux<br><br>
-
-As a Full-Stack Web3 Developer, I craft high-performance decentralized applications and developer tooling, combining secure on-chain logic with responsive frontends using React, Next.js, and Tailwind CSS.<br><br>
-
-🚀 **Technical Skills**<br>
+Tooling: OpenZeppelin, Uniswap, Chainlink Standards, `svm-rs`<br>
+Testing & Autocomplete: Foundry Test Suites, Local AI Integration (Ollama, Coder LLMs)<br>
 Frontend Development: React, Next.js, TypeScript<br>
 UI & Styling: Tailwind CSS<br>
 Web3 Integration: Ethers.js, Wagmi<br>
-Environment & Workflow: Fedora Linux, Bash, VS Code, Git<br>
-Testing & Autocomplete: Foundry Test Suites, Local AI Integration (Ollama, Coder LLMs)<br><br>
+Version Control & OS: Git, GitHub CLI, Linux<br>
+Workflow: Fedora Linux, Bash, VS Code, Git<br>
+
+As a Full-Stack Web3 Developer, I craft high-performance decentralized applications and developer tooling, combining secure on-chain logic with responsive frontends using React, Next.js, and Tailwind CSS.<br><br>
 
 💡 **About Me**<br>
 My journey in technology is driven by a deep curiosity for high-stakes software engineering, code security, and decentralized finance. What started with building intuitive web applications quickly evolved into a dedicated specialization in smart contract development and security auditing.<br><br>
