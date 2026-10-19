@@ -1,12 +1,69 @@
 # 👋 Hi, I'm Alexka!<br>
-I am a developer passionate about the Web3 ecosystem, specializing in the design and deployment of robust and scalable smart contracts. My focus is on security and gas efficiency using standard tools from the blockchain industry.<br><br> What I have created:<br>🏗️ Tokenization: Real-world asset (RWA) architecture and custom tokens.<br>🏦 DeFi Ecosystems: Development of crypto banking protocols and lending systems.<br>🥩 Staking Platforms: Creation of reward pools and complex staking logic.<br><br>🚀 Technical Skills<br>Blockchain Development: Solidity, Foundry<br>Version Control: Git, GitHub<br><br>As a Frontend developer I have created intuitive and attractive web interfaces with React, Next y Tailwind CSS as a main stack. <br><br>🚀 Technical Skills<br>Frontend Development: React, Next.<br>UI Libraries: Tailwind CSS, Bootstrap<br>Testing: Jest, React Testing Library<br><br>💡 About Me<br>My journey into web development began with an insatiable curiosity to understand how things work behind a web page. This curiosity turned into a passion that has led me to specialize in frontend development. I love building applications that are not only functional but also beautiful and user-friendly.<br><br>In addition to my strong affinity for frontend development, I have discovered my passion for blockchain development, especially in the development of Smart Contracts, which I consider to be a highly versatile tool. I am fascinated by how blockchain technology can transform various sectors, and I am constantly learning and experimenting with Solidity and Hardhat.<br><br>🌱 Currently Learning<br>I am always looking to improve and learn new things. Currently, I am deepening my knowledge in:<br><br>Smart contract development with Solidity<br>Blockchain development tools like Foundry<br>Testing and security auditing of smart contracts<br><br>📫 Let's Connect!<br>If you have an interesting project or just want to talk about technology, feel free to contact me:<br><br>LinkedIn: www.linkedin.com/in/alexka-l-18a1a4218<br>Twitter: @Alexka09<br>Email: alexk.dev89@gmail.com<br><br>Thank you for visiting my profile, and I look forward to collaborating with you soon
+I am a full-stack Web3 developer and smart contract auditor specializing in EVM architecture, protocol security, and gas optimization. My focus centers on gas efficiency, formal testing, and adversarial security analysis using industry-standard toolchains.<br>
+
+**What I have created:**<br>
+🏢 RWA Tokenization: Real-world asset architecture, presale mechanics, and decentralized marketplaces (PropChain).<br>
+🏦 DeFi Protocols: Decentralized lending protocols, yield farming pools, and custom crypto banking logic.<br>
+🎲 Chainlink Infrastructure: Verifiable randomness (VRF v2.5) integration for decentralized applications (XLottery).<br><br>
+
+**🚀 Technical Skills**<br>
+Smart Contracts & Security: Solidity, EVM Architecture, Gas Optimization, Protocol Auditing<br>
+Tooling & Environment: Foundry (Forge, Cast, Anvil), OpenZeppelin, Chainlink Standards, `svm-rs`<br>
+Version Control & OS: Git, GitHub CLI, Linux<br><br>
+
+As a Full-Stack Web3 Developer, I craft high-performance decentralized applications and developer tooling, combining secure on-chain logic with responsive frontends using React, Next.js, and Tailwind CSS.<br><br>
+
+🚀 **Technical Skills**<br>
+Frontend Development: React, Next.js, TypeScript<br>
+UI & Styling: Tailwind CSS<br>
+Web3 Integration: Ethers.js, Wagmi<br>
+Environment & Workflow: Fedora Linux, Bash, VS Code, Git<br>
+Testing & Autocomplete: Foundry Test Suites, Local AI Integration (Ollama, Coder LLMs)<br><br>
+
+💡 **About Me**<br>
+My journey in technology is driven by a deep curiosity for high-stakes software engineering, code security, and decentralized finance. What started with building intuitive web applications quickly evolved into a dedicated specialization in smart contract development and security auditing.<br><br>
+
+Today, my primary passion lies in smart contract development and security auditing. I approach every protocol with an adversarial mindset, designing, breaking, and optimizing code through rigorous Foundry test suites, fuzzing, and invariant testing. Beyond writing production-grade Solidity, I regularly participate in competitive smart contract security audits across top bug bounty platforms.<br>Alongside development I actively share technical insights and security practices with the Web3 developer community.<br><br>
+
+🌱 **Currently Learning**<br>
+I am continuously refining my skills in competitive smart contract auditing and deep EVM security. Currently, I am focused on:<br>
+
+* Advanced smart contract auditing methodologies & proof-of-concept exploit design on platforms like Code4rena, Cyfrin CodeHawks and Sherlock<br>
+* EVM assembly (Yul), low-level call mechanics, and advanced gas optimization patterns<br>
+* Formal verification and invariant-based testing methodologies in Foundry<br><br>
+
+📫 **Let's Connect!**
+If you have an interesting Web3 project<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alexka-l-18a1a4218) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Alexka09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexka-dev/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Alexka09) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Smart Contracts & Web3 Infrastructure -->
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![EVM Architecture](https://img.shields.io/badge/EVM-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-%23375BD2.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%234E5EE4.svg?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+<!-- Web3 Integration & Frontend -->
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-%232535A0.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+
+<!-- Tooling, OS & AI Workflow -->
+![Linux (Fedora)](https://img.shields.io/badge/Fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-%234EAA25.svg?style=for-the-badge&logo=GNU-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Local AI / Ollama](https://img.shields.io/badge/Local_AI-%23FF6F00.svg?style=for-the-badge&logo=ollama&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alexka-Dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alexka-Dev&theme=radical&hide_border=false)<br/>
